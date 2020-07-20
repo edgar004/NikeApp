@@ -2,7 +2,8 @@
     'use strict';
     document.addEventListener('DOMContentLoaded',function(){
         console.log('Ready!!');
-
+        
+           console.log('hola brian')
         class Sneaker{
             constructor(name,size,color){
                 this.name = name
